@@ -1,0 +1,54 @@
+[
+  {
+    "title": "remerita",
+    "description": "remerita linda",
+    "code": "lam123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "img/remerita1.jpg",
+      "img/remerita2.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "title": "cangurito",
+    "description": "buzo",
+    "code": "tec123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "img/buzo1.jpg",
+      "img/buzo2.jpg"
+    ],
+    "id": 3
+  },
+  {
+    "id": 4,
+    "title": "hojotas",
+    "description": "chinelas",
+    "code": "tre123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "calzado"
+  },
+  {
+    "id": 5,
+    "title": "hojotas",
+    "description": "chinelas",
+    "code": "tre123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "calzado",
+    "thumbnails": [
+      "img/chinela.jpg",
+      "img/chinela.jpg"
+    ]
+  }
+]
