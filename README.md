@@ -1,8 +1,8 @@
 
 # 🛒 API de Productos y Carritos - Proyecto Backend
 
-¡Hola! Bienvenido/a a mi proyecto backend utilizando **Node.js** y **Express**. En esta API puse en práctica conceptos clave como rutas, manejo de archivos, y lógica de negocio, simulando una pequeña tienda online.
 
+¡Hola! Este proyecto fue desarrollado como parte de una **tarea práctica** en mi especialización en desarrollo backend. La consigna fue crear una API REST utilizando **Node.js** y **Express**, enfocándome en el manejo de rutas, lógica de negocio y persistencia con archivos. Simula el backend de una tienda online, con gestión de productos y carritos.
 ---
 
 ## 📁 Estructura del Proyecto
