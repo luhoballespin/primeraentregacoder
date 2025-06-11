@@ -7,7 +7,7 @@
 
 ## 📁 Estructura del Proyecto
 
-###📦 proyecto/
+### 📦 proyecto/
 ├── server-express.js # Archivo principal que inicia el servidor
 ├── routes/
 │ ├── products.router.js # Rutas para productos
